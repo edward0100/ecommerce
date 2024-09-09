@@ -1,0 +1,25 @@
+
+body {
+    padding-top: 20px;
+}
+
+header.jumbotron {
+    background: #f8f9fa;
+    border-radius: .3rem;
+}
+
+.card {
+    border: none;
+    border-radius: .5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    border-bottom: 1px solid #e9ecef;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
